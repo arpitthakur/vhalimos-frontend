@@ -1,3 +1,742 @@
 img.vhalimos_logo {
-  width: 63%;
+  width: 22%;
+}
+.booking_section{
+
+  background-image: linear-gradient(140deg,rgba(0,72,114,0.9) 0%,#291160 100%);
+  background-color: rgba(0,0,0,0);
+  margin-top: 90px;
+  padding-top: 90px;
+  padding-bottom: 103px;
+}
+.Special_Offer{
+  text-align: center;
+}
+a {
+  font-size: 14px;
+}
+.airport_section {
+  background: #fc893c;
+}
+h2.booking_highlight_text {
+  color: #fff;
+  line-height: 1.2em;
+}
+
+img.booking_car_image {
+ 
+  height: auto;
+  max-width: 100%;
+}
+img.suv_car-image {
+  height: auto;
+  max-width: 100%;
+}
+img.min_bus_image {
+  height: auto;
+  max-width: 100%;
+}
+img.limo_image {
+  height: auto;
+  max-width: 100%;
+}
+img.melbourn_image {
+  
+  height: auto;
+  max-width: 100%;
+}
+img.sydney-image {
+  height: auto;
+  max-width: 100%;
+}
+img.adelaide_image {
+ 
+    height: auto;
+    max-width: 100%;
+}
+
+img.gold_coast_image {
+  height: auto;
+    max-width: 100%;
+}
+img.perth_image {
+  height: auto;
+    max-width: 100%;
+}
+img.auckland_image {
+  height: auto;
+  max-width: 100%;
+}
+h3.taxi_highlight_text {
+  text-align: center;
+  font-size: 48px;
+  line-height: 1.4em;
+  font-weight: 800;
+  color: #333;
+}
+p.taxi_muted_text {
+  text-align: center;
+}
+img.booking_image {
+  width: 69%;
+}
+.address_section_one {
+  background: #fc893c;
+  padding:4em;
+}
+.phone_number_section {
+  background: #f1f1f1;
+  padding:4em;
+}
+.email_section {
+  background: rgb(20,49,78);
+  color: #fff;
+  padding:4em;
+}
+.contact_us_section {
+  padding-top: 5em;
+}
+img.message_image {
+  width: 50%;
+}
+img.corporate_image {
+  /* width: 74%; */
+  max-width: 100%;
+  height: auto;
+}
+img.checkout_image {
+  width: 84%;
+}
+ul.navbar-nav {
+  margin-top: 1em;
+}
+li.nav-item {
+  padding: 6px 15px;
+}
+img.wedding_transfer_img {
+  max-width: 100%;
+  height: auto;
+}
+.service_section {
+  text-align: center;
+}
+
+
+p.wedding_transfer_muted_text {
+  line-height: 1.8em;
+}
+p.corporate_muted_text {
+  line-height: 1.8em;
+}
+p.our_service_muted_text {
+  line-height: 1.8em;
+}
+.help_section{
+  background-image: linear-gradient(140deg,#004872 0%,rgba(41,17,96,0.8) 100%),url("../public/aboutus.jpg")!important;
+  margin-top: 6em;
+  padding-top: 3em;
+  padding-bottom: 5em;
+}
+p.taxi_muted_text1.aos-init.aos-animate {
+  line-height: 1.8em;
+}
+p.taxi_muted_text2.aos-init.aos-animate {
+  line-height: 1.8em;
+}
+p.taxi_muted_text3.aos-init.aos-animate {
+  line-height: 1.8em;
+}
+p.taxi_muted_text4.aos-init.aos-animate {
+  line-height: 1.8em;
+}
+
+h3.help_section_headlight_text {
+  color: #fff;
+}
+p.address_muted_text {
+  color: #fff;
+}
+img.iconsand_img {
+  width: 51%;
+}
+.choose_us_section {
+  margin-top: 5em;
+}
+img.phone_image {
+  width: 35%;
+}
+img.message_image {
+  width: 35%;
+}
+img.driver_image {
+  width: 55%;
+}
+button.btn.btn-dark {
+  margin-top: 2em;
+}
+img.door_image {
+  width: 55%;
+}
+
+li.address_items {
+  list-style-type: none;
+  color: #fff;
+  padding-left: 5em;
+  padding-top: 9px;
+}
+.address_section {
+  padding-top: 1em;
+}
+img.visit_image {
+  width: 12%;
+  float: left;
+}
+img.timer_image {
+  float: left;
+  width: 11%;
+}
+img.phone_img {
+  float: left;
+  width: 12%;
+}
+h3.our_service_heading_text {
+  text-align: center;
+}
+p.our_service_muted_text {
+  text-align: center;
+}
+.ant-card-meta-title {
+  padding-top: 35px;
+}
+.get_in_touch_section {
+  text-align: center;
+}
+img.departure_img {
+  height: auto;
+  max-width: 100%;
+}
+h5.card-title {
+  font-weight: bold;
+  font-size: 20px;
+}
+img.booking_image {
+  
+  max-width: 100%;
+  height: auto;
+}
+h3.booking_highlight_text {
+  color: #fff;
+}
+button.btn_book {
+  background: #ffa83c;
+  color: #fff;
+  border-radius: 26px;
+  padding: 13px;
+  margin-top: 21px;
+  width: 29%;
+  letter-spacing: 3px;
+}
+p.booking_muted_text {
+  color: #fff;
+  line-height: 1.8em;
+  font-weight: 500;
+}
+img.jayride_image {
+  max-width: 100%;
+  height: auto;
+ 
+}
+p.jayride_muted_text {
+  line-height: 1.9em;
+  padding-top: 8px;
+}
+.jayride_section {
+  background: #1a2d58;
+  color: #fff;
+  padding-top: 48px;
+  padding-bottom: 9em;
+  /* margin-top: 4em; */
+}
+h3.join_driver_text {
+  text-align: center;
+}
+h3.company_account_text {
+  text-align: center;
+}
+h3.individual_account_text {
+  text-align: center;
+}
+
+h4.jayride_text {
+  color: #0057a7;
+}
+li.jayride_list_text {
+    list-style-type: none;
+    line-height: 1.8em;
+    padding-top: 8px;
+}
+.company_form {
+  padding-top: 4em;
+}
+h3.choose_us_heading_text {
+  text-align: center;
+  font-size: 43px;
+  color: #333;
+  line-height: 1.4em;
+  font-family: 'Share Tech',Helvetica,Arial,Lucida,sans-serif;
+  font-weight: 800;
+}
+.about_us_section {
+  text-align: center;
+  padding-top: 3em;
+}
+.comapny_account_section {
+  padding-top: 2em;
+}
+p.company_section_muted_text1 {
+  padding-top: 4em;
+  line-height: 1.6em;
+}
+p.company_section_muted_text2 {
+  line-height: 1.5em;
+}
+p.company_section_muted_text3 {
+  line-height: 1.5em;
+}
+p.company_section_muted_text4 {
+  line-height: 1.5em;
+}
+.special_offer-section {
+  padding-top: 8em;
+}
+.special_offer_muted_text {
+  padding: 3em;
+}
+img.join_driver_image {
+  padding-top: 8em;
+}
+p.individual_section_muted_text1 {
+  padding-top: 6em;
+}
+h1.special_offer_text {
+  text-align: center;
+}
+p.airport_muted_text {
+  line-height: 1.8em;
+} 
+button.book_now {
+  border-radius: 26px;
+  background-image: linear-gradient(243deg,#3D72E7 0%,#53a0fe 100%);
+  color: #fff;
+  padding: 16px;
+  border: #fff;
+  /* width: 18%; */
+  /* height: 56px; */
+}
+h3.melbourn_highlight {
+  color: #535b7c;
+}
+.car_section {
+  background: #f1f1f1;
+}
+h3.sydney_highlight_text{
+  color: #535b7c;
+}
+h3.adelaide_text{
+  color: #535b7c;
+}
+h3.gol_coast_highlight_text{
+  color: #535b7c;
+}
+h3.perth_airport_text{
+  color: #535b7c;
+}
+h3.auckland_highlight_text{
+  color: #535b7c;
+}
+p.melbourn_muted_text {
+  line-height: 1.8em;
+}
+p.sydney_muted_text {
+  line-height: 1.8em;
+}
+p.adelaide_muted_text {
+  line-height: 1.8em;
+}
+p.gol_coast_muted_text {
+  line-height: 1.8em;
+}
+p.perth_airport_muted_text {
+  line-height: 1.8em;
+}
+p.auckland_muted_text {
+  line-height: 1.8em;
+}
+.melbourn_section {
+  padding-top: 60px;
+}
+.sydney_airport_section {
+  padding-top: 85px;
+}
+.adelaide_section {
+  padding-top: 85px;
+}
+.gol_coast_section {
+  padding-top: 85px;
+}
+.perth_airport_section {
+  padding-top: 85px;
+}
+
+div#__next {
+  overflow: hidden;
+}
+.auckland_section {
+    padding-top: 85px;
+}
+p.sedan_car-muted_text {
+  line-height: 1.8em;
+}
+p.mini_bus_muted_text {
+  line-height: 1.8em;
+}
+p.SUv_car_muted_text {
+    line-height: 1.8em;
+}
+.sedan_section {
+  padding-top: 85px;
+
+}
+.SUV-section {
+  padding-top: 85px;
+}
+
+.mini_bus_section {
+  padding-top: 85px;
+}
+.lino_car_section {
+  padding-top: 85px;
+}
+img.airport_image {
+  height: auto;
+  max-width: 100%;
+}
+.vehicle_section {
+  text-align: center;
+}
+p.limo_car_muted_text {
+    line-height: 1.8em;
+}
+.wedding_section {
+  border: 1px solid #d9dce1;
+}
+.hotel_section {
+  border: 1px solid#d9dce1;
+  margin-top: 20px;
+}
+.parcel_section {
+  background: #14314e;
+  color: #fff;
+  margin-top: 20px;
+}
+.taxi_hire_section {
+  border: 1px solid #333333;
+  margin-top: 20px;
+}
+.airport-chaffeur_section {
+  padding-top: 80px;
+}
+button.btn-btn-dark {
+  background: #14314e;
+  color: #fff;
+  margin-top: 25px;
+  border-radius: 25px;
+  padding: 18px;
+  width: 31%;
+  letter-spacing: 4px;
+}
+p.car_muted_text {
+  line-height: 1.8em;
+}
+p.parcel_muted_text {
+  line-height: 1.8em;
+}
+p.hotel_muted_text {
+  line-height: 1.8em;
+}
+p.wedding_muted_text {
+  line-height: 1.8em;
+}
+.book_ride_section {
+  background: #437ff0;
+  color: #fff;
+}
+select.form-select {
+  padding: 8px;
+  font-size: 13px;
+}
+
+.card-body1 {
+  text-align: center;
+  padding: 5em;
+}
+select#form_select {
+  margin-top: 25px !important;
+}
+select.form-select {
+  padding: 8px;
+}
+.form_input {
+  width: 60%;
+  margin: 49px auto;
+  box-shadow: 0 0 17px 0 #230c0c38;
+  border-radius: 5px;
+  padding: 25px;
+  gap: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.form_input {
+  border-radius: 15px;
+  background: #fff;
+}
+button.book_ride_btn {
+  margin-top: 37px;
+  color: #3c73e8;
+  border-radius: 26px;
+  /* padding: 7px; */
+  width: 30%;
+  padding: 10px;
+  /* margin-left: 190px; */
+}
+h3.Special_Offer {
+  font-weight: 900;
+  font-size: 27px;
+}
+h3.aboutus_highlight_text {
+  font-weight: 900;
+  font-size: 3em;
+}
+p.aboutus_muted_text {
+  font-size: 20px;
+}
+.book_ride_section {
+  background: #437ff0;
+  color: #fff;
+  padding-bottom: 2em;
+  margin-top: 6em;
+}
+h3.book_ride_heading_text {
+  margin-top: 2em;
+}
+
+
+
+.faq .content h3 {
+  font-weight: 400;
+  font-size: 34px;
+}
+
+.faq .content h4 {
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 5px;
+}
+
+.faq .content p {
+  font-size: 15px;
+  color: #6c757d;
+}
+
+.faq .accordion-item {
+  border: 0;
+  margin-bottom: 20px;
+  box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.06);
+  border-radius: 10px;
+}
+
+.faq .accordion-item:last-child {
+  margin-bottom: 0;
+}
+
+.faq .accordion-collapse {
+  border: 0;
+}
+
+.faq .accordion-button {
+  padding: 20px 50px 20px 20px;
+  font-weight: 600;
+  border: 0;
+  font-size: 18px;
+  line-height: 24px;
+  color: var(--color-default);
+  text-align: left;
+  background: #fff;
+  box-shadow: none;
+  border-radius: 10px;
+}
+
+.faq .accordion-button .num {
+  padding-right: 10px;
+  font-size: 20px;
+  line-height: 0;
+  color: #298374;
+}
+
+.faq .accordion-button:not(.collapsed) {
+  color: var(--color-primary);
+  border-bottom: 0;
+  box-shadow: none;
+}
+
+.faq .accordion-button:after {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+}
+
+.faq .accordion-body {
+  padding: 0 40px 30px 45px;
+  border: 0;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: none;
+}
+
+.middle_section {
+  background: #7ebec5;
+  color: #fff;
+  padding-bottom: 50px;
+  padding-top: 30px;
+  margin-top: 25px;
+}
+button.next_btn {
+  margin-top: 23px;
+  border-radius: 26px;
+  width: 34%;
+  padding: 11px;
+  text-align: center;
+  background: black;
+  color: #fff;
+}
+h3.ready_book_text {
+  text-align: center;
+}
+.wedding_car__section {
+  background: #fc893c;
+  color: #fff;
+  padding: 3em;
+}
+.fixedfare_section {
+  background: #f1f1f1;
+  padding: 3em;
+}
+.hotel_transportation_section {
+  border: 1px solid #d9dce1;
+  padding: 3em;
+}
+.licensed_vehicle_section {
+  border: 1px solid #d9dce1;
+  padding: 3em;
+  margin-top: 5em;
+}
+.baby_seat_section {
+  background: #14314e;
+  color: #fff;
+  padding: 3em;
+  margin-top: 5em;
+}
+.cards_section {
+  background: #ffa83c;
+  color: #fff;
+  padding: 3em;
+  margin-top: 5em;
+}
+p.taxi_muted_text1 {
+  text-align: justify;
+  text-align: center;
+}
+p.taxi_muted_text2 {
+  text-align: justify;
+  text-align: center;
+}
+li.choose_us_subitems {
+  list-style-type: none;
+  padding: 13px;
+  font-weight: 500;
+  font-size: 18px;
+}
+p.choose_us_muted_text {
+  padding-top: 2em;
+  line-height: 1.8em;
+}
+p.choose_us_section1_muted_text {
+  line-height: 1.8em;
+}
+.about_us_menu_section {
+  padding-top: 3em;
+  margin-top: 3em;
+}
+button.message_btn {
+  margin-top: 28px;
+  border-radius: 26px;
+  padding: 10px;
+  background: #ffa83c;
+  color: #fff;
+  text-transform: uppercase;
+}
+p.address_muted_text {
+  color: #fff;
+  line-height: 1.9em;
+}
+.taxi_service_section {
+  text-align: center;
+  margin-top: 5em;
+}
+h3.contact_us_text {
+  text-align: center;
+}
+.address_section {
+  padding-top: 1em;
+  margin-top: 3em;
+  /* margin: 5em; */
+}
+h3.get_in_touch_text {
+  font-weight: 900;
+  font-size: 30px;
+}
+p.get_in_touch_muted_text {
+  font-size: 17px;
+}
+h3.contact_us_text {
+  text-align: center;
+  font-weight: 900;
+}
+.get_in_touch_section {
+  text-align: center;
+  margin-top: 4em;
+}
+h3.address_heading_text {
+  color: #fff;
+}
+p.wedding_car_muted_text {
+  padding-top: 3em;
+}
+p.fixedfare_muted_text {
+  padding-top: 3em;
+}
+
+
+p.hotel_transformation_muted_text {
+    padding-top: 3em;
+}
+p.licensed_vehicle_muted_text {
+  padding-top: 3em;
+}
+p.baby_seat_muted_text {
+  padding-top: 3em;
+}
+p.cards_muted_text {
+  padding-top: 3em;
 }
